@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+#   Not versioned: too large for Git/LFS. Rebuild them with descarga-lectura-dataset.ipynb
+datos/full-dataset/
+
+# Local tooling
+.atl/
